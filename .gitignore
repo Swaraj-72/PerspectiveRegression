@@ -1,0 +1,7 @@
+*imgs/
+*venv/
+*results/
+*.csv
+*.ipynb
+*.pt
+*.crdownload

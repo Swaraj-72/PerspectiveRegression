@@ -1,0 +1,3 @@
+dataset_root: artifacts/
+dataset_csv: artifacts/car_imgs_4000.csv
+dataset_imgs: artifacts/imgs/
